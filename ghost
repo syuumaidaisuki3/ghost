@@ -1,0 +1,202 @@
+<!DOCTYPE html> 
+<html lang="ja"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <title>ゴゴゴゴーストランド | ドズル社ランドを取り戻せ！</title> 
+  <style> 
+    body { 
+      margin: 0; 
+      padding: 0; 
+      font-family: "Arial", sans-serif; 
+      background: linear-gradient(to bottom, #10002b, #240046, #3c096c) fixed !important; 
+      color: #f8f8f8 !important; 
+      min-height: 100vh;
+    } 
+ 
+    .container { 
+      max-width: 800px; 
+      margin: 50px auto; 
+      padding: 20px; 
+      background-color: rgba(0, 0, 0, 0.6) !important; 
+      border-radius: 12px; 
+      box-shadow: 0 0 20px #ff4ecb !important; 
+    } 
+ 
+    h1 { 
+      font-size: 2.5em; 
+      color: #ff4ecb !important; 
+      text-shadow: 2px 2px 5px #ff4ecb !important; 
+      margin-bottom: 0.2em; 
+    } 
+    
+    h2 {
+      font-size: 1.8em;
+      color: #ff4ecb !important;
+      text-shadow: 1px 1px 3px #ff4ecb !important;
+      margin-top: 1.5em;
+      border-bottom: 1px solid #ff4ecb;
+      padding-bottom: 0.3em;
+    }
+    
+    h3 {
+      font-size: 1.4em;
+      color: #00f5d4 !important;
+      margin-top: 1.2em;
+    }
+ 
+    p { 
+      font-size: 1.1em; 
+      line-height: 1.8; 
+      color: #f8f8f8 !important;
+    } 
+ 
+    a { 
+      color: #00f5d4 !important; 
+      text-decoration: none; 
+    } 
+ 
+    a:hover { 
+      text-decoration: underline; 
+    } 
+ 
+    img { 
+      max-width: 100%; 
+      border-radius: 10px; 
+      box-shadow: 0 0 15px #00f5d4 !important; 
+      margin: 20px 0; 
+    } 
+ 
+    footer { 
+      text-align: center; 
+      margin-top: 40px; 
+      font-size: 0.9em; 
+      color: #bbb !important; 
+    } 
+    
+    .feature-section {
+      margin: 30px 0;
+      padding: 15px;
+      background-color: rgba(255, 78, 203, 0.1) !important;
+      border-radius: 8px;
+      border-left: 4px solid #ff4ecb;
+    }
+    
+    ul {
+      line-height: 1.6;
+    }
+    
+    li {
+      margin-bottom: 10px;
+    }
+    
+    .highlight {
+      color: #00f5d4 !important;
+      font-weight: bold;
+    }
+    
+    .game-ui {
+      background-color: rgba(0, 245, 212, 0.1) !important;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+    
+    .download-button {
+      display: inline-block;
+      background-color: #ff4ecb !important;
+      color: #fff !important;
+      padding: 12px 25px;
+      border-radius: 30px;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin: 20px 0;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 10px #ff4ecb !important;
+    }
+    
+    .download-button:hover {
+      background-color: #e03eb2 !important;
+      transform: scale(1.05);
+      text-decoration: none;
+    }
+  </style> 
+</head> 
+<body> 
+  <div class="container"> 
+    <h1>ゴゴゴゴーストランド</h1> 
+    <p class="subtitle">― ドズル社ランドを取り戻せ！ ―</p> 
+ 
+    <img src="c:\Users\itumo\OneDrive\画像\S__70148102.jpg" alt="ゴゴゴゴーストランドのゲーム画面" width="200" height="400"> 
+ 
+    <p> 
+      ゴゴゴゴーストランドは、放置系RPGとホラーファンタジーが融合した新感覚のアドベンチャーゲームです。<br> 
+      笑顔と夢を取り戻すため、ゴーストたちに占拠されたテーマパークでの冒険が今始まります！
+    </p>
+    
+    <a href="https://onelink.to/pr-gogogoghostland" class="download-button">今すぐダウンロード</a>
+    
+    <div class="feature-section">
+      <h2>ストーリーと世界観</h2>
+      <ul>
+        <li><span class="highlight">舞台</span>: 世界中の笑顔が集まる大人気テーマパーク「ドズル社ランド」。</li>
+        <li><span class="highlight">物語</span>: ある日、謎のゴーストたちがパークを占拠し、アトラクションが暴走、テーマパークは「幽霊テーマパーク」へと変貌。ドズル社メンバーは、喋るぬいぐるみに宿るパークの精霊に導かれ、ゴーストたちを率いる「ゴーストキング」からテーマパークを取り戻す冒険に挑む。</li>
+        <li><span class="highlight">テーマ</span>: 笑顔と夢を取り戻す戦いと、ゴーストたちの裏に隠された真実を解き明かす謎解き。</li>
+      </ul>
+    </div>
+    
+    <div class="feature-section">
+      <h2>ゲームの特徴</h2>
+      <ul>
+        <li><span class="highlight">ジャンル</span>: 放置系RPG。戦闘は自動進行で、ゲームが苦手な人でも楽しめる設計。</li>
+        <li><span class="highlight">プレイスタイル</span>: プレイヤーはドズル社メンバーを強化したり装備を整えたりすることで、ゴーストとのバトルをサポート。放置するほどキャラクターが強くなる手軽さが魅力。</li>
+        <li><span class="highlight">キャラクター</span>: ドズル社メンバーが登場し、各メンバーは固有のスキルを持つ。</li>
+        <li><span class="highlight">サポゴースト</span>: 頼れるサポートキャラクターとして、ゴーストたちも登場。</li>
+        <li><span class="highlight">課金要素</span>: 基本プレイ無料で、アプリ内課金あり。</li>
+      </ul>
+    </div>
+    
+    <h2>ゲームガイド</h2>
+    
+    <div class="game-ui">
+      <h3>画面の説明</h3>
+      <p>
+        画面下部に6つの項目（装備、スキル、経営、パレード、遊園地、ショップ）があります。<br>
+        その少し上に、左から祝福、ミッション？、クエストが表示されています。<br>
+        画面中央の少し下に現在の攻撃力、上側に同じ色で現在のステージが表示されています。<br>
+        左上には、下から、ルーレット、ミッション、守護霊の恵み、遊園地脱出があります。<br>
+        遊園地脱出の右側に、現在の所持金、ダイヤ所持数、現在の順位が表示されています。<br>
+        その下に、おともだち、があります。
+      </p>
+    </div>
+    
+    <h3>装備について</h3>
+    <p>
+      装備のところをタップすると、現在の隊長、スキル、装備中の武器やアクセサリーが表示されます。下側には武器が表示され、レベルアップと装備変更ができます。レベルアップすることで次の武器を購入できるようになります。中盤くらいまでは、次の武器を購入した方が攻撃力が高くなります。
+    </p>
+    <p>
+      武器の右下には+のマークがあり、歯車を使って永続的にレベルを上げることができます（1歯車→1レベルアップ）。ただし、次の武器を買うためのレベルには影響しないので注意が必要です。全体強化を行うと、現在の強化効果が数%増加します。
+    </p>
+    <p>
+      <span class="highlight">武器の攻撃力やお金の単位</span>:<br>
+      10000＝1a<br>
+      10000a＝1b<br>
+      のような表記になっています。
+    </p>
+    <p>
+      アクセサリーとサボゴーストについてはゲームを進めていくと使えるようになります。どちらもガチャを引いて、一つだけ装備できます。アクセサリーではレア度が同じものは同じ性能なので、レア度が一番高く、その中でレベルが一番高いものを装備しましょう。サボゴーストは、レア度が一番高く、攻撃力が高いキャラを使いましょう。
+    </p>
+    
+    <h3>スキルについて</h3>
+    <p>
+      5人それぞれ固有のスキルがあり、それぞれレベルアップさせることができます。武器同様に、レベルアップと装備変更ができ、レベルアップすることにより次の武器を購入できるようになります。次の武器を購入した方が攻撃力が高くなります。
+    </p>
+    <p>
+      ただし、スキルは全体強化ができず、後半は武器が強くなるので、スキルを使わなくなると思います。
+    </p>
+    
+    <h3>経営について</h3>
+    <p>
+      バイキング、フリーフォール、回転ブランコ、スペースシャトル、観覧車のレベルを上げましょう。序盤はゴーカートも上げておきましょう。他は特に必要ないと思います。また、経営は武器と同じように全体強化もできます。
+    </p>
+</body> 
+</html>
